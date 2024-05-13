@@ -1,0 +1,32 @@
+{
+    "posts":[
+        {
+            "id":1,
+            "title":"1st Post",
+            "datetime":"july 16,2021 11:47:10 AM",
+            "body":"I am maddy mahesh"
+
+        },
+        {
+            "id":1,
+            "title":"1st Post",
+            "datetime":"july 16,2021 11:47:10 AM",
+            "body":"I am maddy mahesh"
+
+        },
+        {
+            "id":1,
+            "title":"1st Post",
+            "datetime":"july 16,2021 11:47:10 AM",
+            "body":"I am maddy mahesh"
+
+        },
+        {
+            "id":1,
+            "title":"1st Post",
+            "datetime":"july 16,2021 11:47:10 AM",
+            "body":"I am maddy mahesh"
+
+        }
+    ]
+}
